@@ -1,3 +1,1 @@
-# deployed link [click here](# deployed link [click here](https://github.com/mkandanmk7/Banner-layoutgi)
-
-)
+# deployed link [click here](# deployed link [click here](https://trusting-leavitt-aa8a94.netlify.app/)
