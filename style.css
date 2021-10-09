@@ -1,0 +1,39 @@
+.container {
+  background-color: rgba(242, 242, 242, 255);
+}
+.blueFont {
+  color: rgba(25, 174, 194, 255);
+}
+.yellowFont {
+  color: rgba(241, 196, 44, 255);
+}
+.dblueFont {
+  color: rgba(48, 85, 109, 255);
+}
+.inBorder {
+  background-color: rgba(25, 174, 194, 255);
+  color: white;
+  width: ;
+}
+.thirdContainer {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+.user {
+  margin-left: -1.5rem;
+}
+.numbers {
+  margin-top: -1rem;
+}
+.number1 {
+  font-size: 4rem;
+}
+.leftSide {
+  border-right: 4px dashed rgba(25, 174, 194, 255);
+}
+.healthyGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  align-content: center;
+}
